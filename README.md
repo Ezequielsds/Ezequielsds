@@ -1,9 +1,9 @@
-!_[.])_(baner.j.p_g)_
-<h1 align="center"> Tecnico em informatica</h1>h1>
-<h3 align="center"> aprendendo sobre Ti
 
 ![banner](https://github.com/user-attachments/assets/c0796a90-8fbc-4b73-82e6-e42d0e82ebeb)
 
+!_[.])_(baner.j.p_g)_
+<h1 align="center"> Tecnico em informatica</h1>h1>
+<h3 align="center"> aprendendo sobre Ti
 
 
 ---
