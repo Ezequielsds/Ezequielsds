@@ -1,3 +1,8 @@
+
+![banner](https://github.com/user-attachments/assets/c0796a90-8fbc-4b73-82e6-e42d0e82ebeb)
+
+
+
 ---
 ✨ Este repositório é um espaço para mostrar minha trajetória, evolução e dedicação no mundo da tecnologia.  
 # 👨‍💻 Tudo sobre mim  
