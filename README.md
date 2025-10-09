@@ -1,6 +1,6 @@
 ![.](banner.jpg)
 <h1 align="center"> Tecnico em informatica</h1>
-<h3 align="center"> aprendendo sobre Ti
+<h3 align="center"> Aprendendo Sobre Ti
 
 
 ---
