@@ -1,4 +1,5 @@
-![.](banner.jpg)
+ <img width="1536" height="1024" alt="BCO f9d22b5f-d5bf-44d7-a25a-8c01fd60a2f5" src="https://github.com/user-attachments/assets/3efaa44c-c711-4854-bd94-31a66687c713" />
+
 <h1 align="center"> Tecnico em informatica</h1>
 <h3 align="center"> Aprendendo Sobre Ti
 
