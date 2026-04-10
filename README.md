@@ -1,4 +1,4 @@
- <img file:///C:/Users/ezequ/Downloads/banner.jpg/>
+![image alt](https://github.com/Ezequielsds/Ezequielsds/blob/main/banner.jpg?raw=true)
 
 <h1 align="center"> Tecnico em informatica</h1>
 <h3 align="center"> Aprendendo Sobre Ti
