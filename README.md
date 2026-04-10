@@ -1,4 +1,4 @@
- <img "C:\Users\ezequ\Downloads\banner.jpg"/>
+ <img file:///C:/Users/ezequ/Downloads/banner.jpg/>
 
 <h1 align="center"> Tecnico em informatica</h1>
 <h3 align="center"> Aprendendo Sobre Ti
