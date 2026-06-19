@@ -22,5 +22,4 @@ Minhas principais ferramentas e tecnologias incluem:
 ![Firewall](https://img.shields.io/badge/Firewall-FF6F00?style=for-the-badge&logo=fortinet&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
----
-✨ Este repositório é um espaço para mostrar minha trajetória, evolução e dedicação no mundo da tecnologia.  
+--- 
