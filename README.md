@@ -23,4 +23,6 @@ Minhas principais ferramentas e tecnologias incluem:
   <img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </p>
-[![📫 Entre em Contato](https://img.shields.io/badge/📫_Entre_em_Contato-0A66C2?style=for-the-badge)](https://ezequielsds.github.io/linktree/)
+## 🌐 Contato
+
+[![Meu Linktree](https://img.shields.io/badge/🌐_Meu_Linktree-0A66C2?style=for-the-badge)](https://ezequielsds.github.io/linktree/)
