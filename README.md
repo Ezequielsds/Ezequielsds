@@ -1,9 +1,10 @@
 Olá, eu sou o Ezequiel! 👋
 ---
-Sou um  estudante do **Técnico em Informática** com interesse em programação, redes, infraestrutura e tecnologia.
+ Sou um  estudante do **Técnico em Informática** com interesse em programação, redes, infraestrutura e tecnologia.
 Tenho interesse em áreas como programação, redes de computadores, servidores e cibersegurança, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
 
-Este GitHub reúne meus projetos, estudos e experiências ao longo da minha jornada de aprendizado.
+Este Github reúne meus projetos, estudos e experiência ao longo da minha jornada de aprendizado.
+
 ---
 
 ## 🚀 Habilidades Principais
