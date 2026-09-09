@@ -32,4 +32,3 @@ Minhas principais ferramentas e tecnologias incluem:
 [![Meu Linktree](https://img.shields.io/badge/🌐_Meu_Linktree-0A66C2?style=for-the-badge)](https://ezequielsds.github.io/linktree/)
 
 
-## 🚀 Habilidades Principais
