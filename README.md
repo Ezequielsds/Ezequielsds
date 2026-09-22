@@ -7,13 +7,6 @@ Este Github reúne meus projetos, estudos e experiência ao longo da minha jorna
 
 ---
 
-## 🚀 Habilidades Principais
-Minhas principais ferramentas e tecnologias incluem:
-
-
-# 🚀 Habilidades Principais
-
-Minhas principais ferramentas e tecnologias incluem:
 
 # 🚀 Habilidades Principais
 
