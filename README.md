@@ -1,7 +1,6 @@
 Olá, eu sou o Ezequiel! 👋
 ---
- Sou um  estudante do **Técnico em Informática** com interesse em programação, redes, infraestrutura e tecnologia.
-Tenho interesse em áreas como programação, redes de computadores, servidores e cibersegurança, buscando sempre aprender novas tecnologias e aprimorar minhas habilidades.
+ Tenho interesse pela área de Tecnologia da Informação e estou construindo minha trajetória profissional na área. Atualmente, estudo programação, análise de dados, redes, infraestrutura e cibersegurança. Desenvolvo conhecimentos em Python, Java, JavaScript, MySQL, SQL e sistemas operacionais. Sou uma pessoa dedicada, curiosa e comprometida com meu aprendizado e desenvolvimento profissional. Busco aprimorar continuamente meus conhecimentos e acompanhar a evolução das tecnologias. Tenho interesse em transformar o conhecimento adquirido em soluções práticas para problemas de tecnologia.
 
 Este Github reúne meus projetos, estudos e experiência ao longo da minha jornada de aprendizado.
 
